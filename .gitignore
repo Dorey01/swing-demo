@@ -7,8 +7,11 @@ gradlew.bat
 settings.gradle
 .gradle
 .idea
+<<<<<<< HEAD
 # Gradle
 !gradlew
 !gradlew.bat
 !/gradle/wrapper/
 
+=======
+>>>>>>> 878cd1c3cc22a548a71c06c50f3ebb3758c19d78
